@@ -11,5 +11,8 @@ considering:
 + logging to track usage
 + wav player for audio alerts
 
-####deployment
+###requirements
++ python 2.7
++ Tkinter
 
+**built and tested on centOS 7**
