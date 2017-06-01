@@ -1,13 +1,11 @@
-# import Tkinter
+"""
+pomodoro clock using tkinter
+"""
 import datetime
 import commands
 
 import Tkinter as tk
 
-#class primotofu():
-
-    # define the current object
-#    def __init__(self):
 class primotofu(tk.Tk):
     def __init__(self):
         tk.Tk.__init__(self)
